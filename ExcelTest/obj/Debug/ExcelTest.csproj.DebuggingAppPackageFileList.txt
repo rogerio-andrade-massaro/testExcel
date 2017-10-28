@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ExcelTestManifest.xml
+C:\Users\Flávia\Documents\Visual Studio 2017\Projects\ExcelTest\ExcelTest\bin\Debug\ExcelTest.debugapp
